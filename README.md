@@ -8,6 +8,8 @@ Wecome! commnunicate always!
 
 
 <!--
+깃헙 꾸미기 참고 : https://davinci-ai.tistory.com/50
+
 **Godkimchiy/Godkimchiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
