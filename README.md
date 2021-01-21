@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm currently learning graph neural network & HOI detection and beginner🌱
-### I Would be on the top in this area⚡
+### I'm currently learning graph neural network & HOI detection🤔
+### I'm beginner now..🌱 But, would become on the top in this area⚡
 
 Wecome! commnunicate always!
 
