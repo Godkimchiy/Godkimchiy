@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Wecome! commnunicate always!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGodkimchiy&count_bg=%2344E5E0&title_bg=%23D51A1A&icon=github.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **Godkimchiy/Godkimchiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
