@@ -1,8 +1,5 @@
 ### Hi there 👋
-### I'm currently learning graph neural network & HOI detection🤔
-### I'm beginner now..🌱 But, would become on the top in this area⚡
 
-Wecome! commnunicate always!
 
 [![visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGodkimchiy&count_bg=%2344E5E0&title_bg=%23D51A1A&icon=github.svg&icon_color=%23FDFDFD&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
